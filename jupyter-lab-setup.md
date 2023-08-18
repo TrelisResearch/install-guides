@@ -31,6 +31,5 @@ python -m ipykernel install --user --name=llamaEnv
 ```
 jupyter lab
 ```
-8. Menu -> Kernel and select the name of your venv (if not already selected)
-9. Menu -> Run -> Run All Cells.
-10. Once all cells have run, you'll find the chat interface at the bottom.
+8. Menu -> Run -> Run All Cells.
+9. Once all cells have run, you'll find the chat interface at the bottom.
