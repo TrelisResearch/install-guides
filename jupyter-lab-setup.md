@@ -23,13 +23,17 @@ source LlamaEnv/bin/activate
 ```
 LlamaEnv\Scripts\activate
 ```
-6. Make the virtual environment available to Jupyter Labs with
+6. Install ipykernel
+```
+pip install ipykernel
+```
+8. Make the virtual environment available to Jupyter Labs with
 ```
 python -m ipykernel install --user --name=llamaEnv
 ```
-7. Start Jupyter with the command
+8. Start Jupyter with the command
 ```
 jupyter lab
 ```
-8. Menu -> Run -> Run All Cells.
-9. Once all cells have run, you'll find the chat interface at the bottom.
+9. Menu -> Run -> Run All Cells.
+10. Once all cells have run, you'll find the chat interface at the bottom.
