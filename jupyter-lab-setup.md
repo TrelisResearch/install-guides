@@ -29,7 +29,7 @@ python -m ipykernel install --user --name=llamaEnv
 ```
 7. Start Jupyter with the command
 ```
-jupyter labs
+jupyter lab
 ```
 8. Menu -> Kernel and select the name of your venv (if not already selected)
 9. Menu -> Run -> Run All Cells.
