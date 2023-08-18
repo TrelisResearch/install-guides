@@ -1,10 +1,10 @@
-# Installing Jupyter Labs
+# Installing Jupyter Lab
 
 1. You'll need to have both python and pip installed to do this. Ask ChatGPT how if you don't.
 2. Open a terminal.
-3. Install *jupyter labs*:
+3. Install *jupyterlab*:
 ```
-pip install jupyter labs
+pip install jupyterlab
 ```
 4. Set up and activate a virtual environment, by running:
 ```
