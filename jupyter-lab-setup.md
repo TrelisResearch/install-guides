@@ -13,11 +13,11 @@ python -m venv LlamaEnv
 4. Activate the virtual environment:
 - On Mac, run
 ```
-source LlamaEnv/bin/activate
+source llamaEnv/bin/activate
 ```
 - On Windows, run
 ```
-LlamaEnv\Scripts\activate
+llamaEnv\Scripts\activate
 ```
 5. Install *jupyterlab*:
 ```
