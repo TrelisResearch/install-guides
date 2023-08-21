@@ -32,6 +32,9 @@ cd build
 cmake ..
 cmake --build . --config Release
 ```
+
+For the above to work, you'll need to first have installed CMake from [cmake.org](cmake.org/download/#latest) - download the Windows x64 Installer version. Make sure to add CMake to the system path - you'll be prompted during installation.
+
 Go to the [original repo](https://github.com/ggerganov/llama.cpp), for acceleration options, although be warned that these are complicated.
 
 3. After compilation is finished, download the [model weights](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q3_K_M.bin) to your llama.ccp folder
