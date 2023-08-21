@@ -8,7 +8,7 @@ pip install venv
 ```
 then
 ```
-python -m venv LlamaEnv
+python -m venv llamaEnv
 ```
 4. Activate the virtual environment:
 - On Mac, run
