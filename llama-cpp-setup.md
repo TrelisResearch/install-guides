@@ -2,12 +2,14 @@
 
 ## Warnings / Expectations
 - Macs with M1 or M2 chips will deliver 10+ tokens/second, even with only 8 GB RAM.
-- Macs with an intel chip can delivery about 2 toks. Interesting to test, but slow to use.
+- Macs with an intel chip can deliver about 2 tokens/second. That's interesting to test, but slow to use.
 - Windows computers:
--- Tedious to install - involves multiple packages (w64devkit + OpenBLAS).
--- Slow to run, as low as <0.1 tokens per second, depending on CPU/GPU.
+    - Tedious to install - involves multiple packages to set up CPU or GPU acceleration (w64devkit + OpenBLAS).
+    - Slow to run, as low as <0.1 tokens per second, depending on CPU/GPU.
 
-
+## Recommendations
+1. If you have an M1/M2 Mac, install/run on Mac using the instructions below OR in a Jupyter Notebook with automated installation. ([paid](https://buy.stripe.com/dR65l6f4p95V7AI6oA)).
+2. Otherwise, run in Google Colab ([free notebook here](https://colab.research.google.com/drive/1u8x41Jx8WWtI-nzHOgqTxkS3Q_lcjaSX?usp=sharing)).
 
 ## Installation
 
