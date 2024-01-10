@@ -1,6 +1,8 @@
 # Install Guides
 Short guides for Large Language Models.
 
+> Trelis Research emails members each time a new video tutorial is published. If you'd like, you can join [here](https://trelis.substack.com).
+
 ## Getting Started
 
 (I've put this in an order that might be useful for newcomers)
