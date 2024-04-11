@@ -1,0 +1,16 @@
+datasets==2.17.1
+scipy==1.12.0
+hf_transfer==0.1.5
+huggingface-hub==0.20.3
+wandb==0.16.3
+wheel
+git+https://github.com/huggingface/transformers
+git+https://github.com/huggingface/accelerate
+git+https://github.com/huggingface/peft
+git+https://github.com/huggingface/trl
+bitsandbytes
+deepspeed
+einops
+sentencepiece
+nltk
+xformers

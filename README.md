@@ -13,6 +13,7 @@ Basic:
 - Google_Colab_Llama_Simple_Inference.ipynb : A simple notebook to generate responses from a Llama 2 language model.
 
 Intermediate:
+- `multi-gpu` folder. This contains simple scripts to run training in model parallel, distributed data parallel and Fully Sharded Data Parallel.
 - Understanding_Quantization_and_AWQ : Pairs with a YouTube video by TrelisResearch on AWQ quantization.
 - 8_bit_quantization.ipynb : Use this notebook to push models to hub in 8-bit.
 - LLM_Comparison.ipynb : Perform some basic comparisons of Language Model Performance
