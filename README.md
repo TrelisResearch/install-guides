@@ -8,6 +8,7 @@ Short guides for Large Language Models.
 (I've put this in an order that might be useful for newcomers)
 
 Basic:
+- `yourbench-space.md`: Explains the options for running LLM fine-tuning or inference (generating responses) using a simple jupyter or Google Colab notebook.
 - llm-notebook-setup.md: Explains the options for running LLM fine-tuning or inference (generating responses) using a simple jupyter or Google Colab notebook.
 - Pushing_to_Hub.ipynb : all about downloading, uploading and pushing models (including adapters and quantized models) to HuggingFace Hub.
 - Google_Colab_Llama_Simple_Inference.ipynb : A simple notebook to generate responses from a Llama 2 language model.
@@ -29,3 +30,6 @@ Once you've tried the basic scripts, consider trying:
 - Server Setup
 
 One way to advance on these is via the [Trelis YouTube Channel](https://youtube.com/@TrelisResearch). You can also check out [Trelis.com](https://trelis.com) to purchase advanced fine-tuning and inference scripts.
+
+## Changelog
+- Add in basic scripts for running `yourbench`
