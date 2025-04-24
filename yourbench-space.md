@@ -11,7 +11,7 @@ WORK IN PROGRESS.
 Run this [here](https://huggingface.co/spaces/yourbench/advanced) on a Chrome or Brave Browser.
 
 Costs:
-- With a free HuggingFace account, you'll have $0.1 in credits, just about enough to run a simple benchmark and eval.
+- With a free HuggingFace account, you'll have $0.1 in credits, just about enough to run a simple benchmark and eval if you have a document that is just a few pages.
 - Adding a credit card will then allow you to continue running.
 
 Tip: If the space is overloaded,  clone the repo into your HuggingFace organisation.
