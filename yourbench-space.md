@@ -29,9 +29,9 @@ uv sync
 # Build the Docker image
 docker build -t yourbench .
 
-# Run the container with your HuggingFace token
-# Option 1: Directly specify your token
-docker run --rm --name=yourbench -p 7860:7860 -e HF_TOKEN=<your_token> yourbench
+# # Run the container with your HuggingFace token
+# # Option 1: Directly specify your token
+# docker run --rm --name=yourbench -p 7860:7860 -e HF_TOKEN=<your_token> yourbench
 
 # Option 2: Load token from .env file
 # First create a .env file with HF_TOKEN=your_token_here
